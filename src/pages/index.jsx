@@ -1,6 +1,4 @@
-/** @jsx jsx */
-import { jsx } from 'theme-ui'
-import Link from 'next/link'
+/** @jsxImportSource theme-ui */
 
 export default () => (
   <div sx={{ height: `calc(100vh - 60px)`}}>
